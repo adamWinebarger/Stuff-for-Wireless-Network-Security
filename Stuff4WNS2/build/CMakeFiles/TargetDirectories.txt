@@ -1,0 +1,7 @@
+/home/adam/projects/Stuff4WNS2/build/CMakeFiles/stuff4wns2.dir
+/home/adam/projects/Stuff4WNS2/build/CMakeFiles/edit_cache.dir
+/home/adam/projects/Stuff4WNS2/build/CMakeFiles/rebuild_cache.dir
+/home/adam/projects/Stuff4WNS2/build/CMakeFiles/list_install_components.dir
+/home/adam/projects/Stuff4WNS2/build/CMakeFiles/install.dir
+/home/adam/projects/Stuff4WNS2/build/CMakeFiles/install/local.dir
+/home/adam/projects/Stuff4WNS2/build/CMakeFiles/install/strip.dir

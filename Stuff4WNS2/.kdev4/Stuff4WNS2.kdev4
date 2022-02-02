@@ -1,0 +1,41 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x14\x00S\x00t\x00u\x00f\x00f\x004\x00W\x00N\x00S\x002)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index-Host System=0
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=/home/adam/projects/Stuff4WNS2/build
+Build Type=Debug
+CMake Binary=/usr/bin/cmake
+CMake Executable=/usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=/usr/local
+Runtime=Host System
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=stuff4wns2
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Arguments=
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x02\x00\x00\x00\x14\x00S\x00t\x00u\x00f\x00f\x004\x00W\x00N\x00S\x002\x00\x00\x00\x14\x00s\x00t\x00u\x00f\x00f\x004\x00w\x00n\x00s\x002)
+Dependency Action=Build
+EnvironmentGroup=
+Executable=file:///home/adam/projects/Stuff4WNS2
+External Terminal=gnome-terminal -e %exe
+Kill Before Executing Again=4194304
+Project Target=Stuff4WNS2,stuff4wns2
+Use External Terminal=true
+Working Directory=
+isExecutable=false
+
+[Project]
+VersionControlSupport=

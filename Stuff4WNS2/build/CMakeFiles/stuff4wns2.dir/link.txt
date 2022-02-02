@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/stuff4wns2.dir/main.cpp.o -o stuff4wns2 

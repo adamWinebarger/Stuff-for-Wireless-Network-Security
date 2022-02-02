@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/adam/projects/Stuff4WNS2/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/stuff4wns2.dir/main.cpp.o -c /home/adam/projects/Stuff4WNS2/main.cpp",
+  "file": "/home/adam/projects/Stuff4WNS2/main.cpp"
+}
+]
